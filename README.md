@@ -1,2 +1,2 @@
 # snakegame
-Using html, css, and javascript to create functional snake game
+Using html and javascript to create functional snake game
